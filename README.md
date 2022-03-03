@@ -7,7 +7,7 @@ lilith@sixsixtysix
 ------------------
        OS  :  macOS
        WM  :  Quartz Compositor
-    Shell  :  bash 3.2
+    Shell  :  bash 5.1
  Terminal  :  iTerm2
 Languages  :  C/C++, Rust, Python, Java, Go, Asm
 ```
